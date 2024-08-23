@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useParams } from 'react-router-dom'
 
 function User() {
@@ -8,4 +8,4 @@ function User() {
   )
 }
 
-export default User 
+export default User   
